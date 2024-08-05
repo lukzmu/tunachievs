@@ -4,4 +4,6 @@
 ## Version: 1.0.0
 ## X-Curse-Project-ID: 1077537
 ## IconAtlas: Professions_Tracking_Fish_Special
+## Dependencies: Blizzard_AchievementUI
+
 TunAchievs.lua
